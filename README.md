@@ -1,2 +1,3 @@
-# Nim
-Nim played on a quantum computer (and Twitter)
+# Nim on a Quantum Computer
+
+See [this notebook](https://nbviewer.jupyter.org/github/quantumjim/Nim/blob/main/nim.ipynb).
